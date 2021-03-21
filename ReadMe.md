@@ -15,7 +15,7 @@ Nice-to-have:
 
 We appoint you a manager of this project, so feel free to add more features if you like :)
 
-Anil Patnaik
+###### Anil Patnaik
 
 Refactored the application as follows:
 - Structured the code to obey SOLID principles
