@@ -15,4 +15,15 @@ Nice-to-have:
 
 We appoint you a manager of this project, so feel free to add more features if you like :)
 
-__ADD YOUR NAME HERE__
+Anil Patnaik
+
+Refactored the application as follows:
+1.	Structured the code to obey SOLID principles
+2.	Entity Framework – Used in-memory database for dev execution. This can fulfil the goal of  
+	a.	Adding more locations in the future
+	b.	Changing menu and price in pizzeria
+	c.	Adding more pizza toppings
+	d.	Provide baking, cutting instructions for each pizza type
+3.	Dependency Injection - For decoupling and testability
+4.	Unit Testing – Covered couple of methods only. Can make the code coverage > 90% for product quality
+5.  ReSharper – Modern coding standards and practices
